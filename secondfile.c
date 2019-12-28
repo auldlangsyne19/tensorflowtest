@@ -3,6 +3,6 @@
 void main()
 {
   printf("this is just for test, hello, world");
-
+  printf("hello,world\n" );
 
 }
